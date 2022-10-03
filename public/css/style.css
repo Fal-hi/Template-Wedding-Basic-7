@@ -296,11 +296,6 @@ ul.navbar-bawah li a {
   margin: 0.5rem auto auto auto;
   height: 400px;
   width: 100%;
-  border-radius: var(--lengkung);
-  -webkit-border-radius: var(--lengkung);
-  -moz-border-radius: var(--lengkung);
-  -ms-border-radius: var(--lengkung);
-  -o-border-radius: var(--lengkung);
 }
 
 .lokasi .akad-nikah,
